@@ -13,7 +13,7 @@ The data extracted from the zips should be placed into a file called "Original-D
  
 The training set can be downloaded using:
 
-    gdown https://drive.google.com/uc?id=11lQZOIkO-9L0QJuk_w1K8-tRuyno-KvLK
+    gdown https://drive.google.com/uc?id=1lQZOIkO-9L0QJuk_w1K8-tRuyno-KvLK
 
 And the validation set can be downloaded using:
 
@@ -21,7 +21,7 @@ And the validation set can be downloaded using:
 
 These can then be extracted into "Original-Data" using:
 
-    unzip Original-Data/test.zip -d Original-Data/ && unzip Original-Data/validation.zip -d Original-Data/
+    unzip Original-Data/train.zip -d Original-Data/ && unzip Original-Data/val_data.zip -d Original-Data/
 
 Or your method of choice.
 
