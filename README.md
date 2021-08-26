@@ -21,7 +21,7 @@ And the validation set can be downloaded using:
 
 These can then be extracted into "Original-Data" using:
 
-    unzip Original-Data/train.zip -d Original-Data/ && unzip Original-Data/val_data.zip -d Original-Data/
+    unzip Original-Data/train.zip -d Original-Data/ && unzip Original-Data/validation.zip -d Original-Data/
 
 Or your method of choice.
 
